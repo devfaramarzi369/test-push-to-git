@@ -12,3 +12,12 @@ button{
     color: #eee;
     background: #000;
 }
+.box{
+    width: 111px;
+    height: 69px;
+    background-color: #a93434;
+    border: 3px solid #000;
+}
+.box span{
+    color: aqua;
+}
