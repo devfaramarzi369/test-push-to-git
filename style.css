@@ -1,7 +1,14 @@
 h1{
-    color: antiquewhite;
+    color: #061e76;
 
 }
 p{
     color: red;
+}
+button{
+    border: 1px solid green;
+    padding: 9px 13px;
+    border-radius: 7px;
+    color: #eee;
+    background: #000;
 }
